@@ -1,2 +1,2 @@
 # ATM
-A program to take pin as input from the user and perform certain operations
+A program to take ATM pin as input from the user and perform certain operations
